@@ -96,10 +96,15 @@ talentscout-hiring-assistant/
 🧠 Technologies Used
 
 |Component	  |Technology          |
+
 |Frontend UI  |	Streamlit          |
+
 |LLM Provider |	Groq API           |
+
 |Model Used	  |Llama-3.1–8B-Instant|
+
 |Language	    |Python              |
+
 |Storage	    |Local JSON (simulated DB)|
 
 🛠️ Installation & Setup
