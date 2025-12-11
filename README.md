@@ -7,6 +7,7 @@ It assists recruitment teams by collecting essential candidate information and g
 This project was developed as part of the AI/ML Intern Assignment.
 
 🚀 Features
+
 ✅ 1. Smart Greeting & Purpose Introduction
 
 The chatbot automatically greets the user and briefly explains its role in the hiring workflow.
