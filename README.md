@@ -114,33 +114,41 @@ talentscout-hiring-assistant/
 
 1️⃣ Clone the repository
 
-'''bash
+```
 git clone https://github.com/your-username/talentscout-hiring-assistant
 cd talentscout-hiring-assistant
+```
+
 
 
 
 2️⃣ Create and activate a virtual environment
 
+```
 python -m venv venv
 
 venv\Scripts\activate        # Windows
 
 source venv/bin/activate     # Mac/Linux
+```
 
 3️⃣ Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt ```
 
 4️⃣ Add your Groq API Key
 
 Create a file named .env.example and add:
 
+```
 GROQ_API_KEY=your_groq_api_key_here
+```
 
 5️⃣ Run the application
 
+```
 streamlit run app.py
+```
 
 🧩 How to Use the Chatbot
 
