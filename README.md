@@ -68,6 +68,7 @@ Completed candidate profiles are stored in a local JSON file (candidates_store.j
 📂 Project Structure
 
 talentscout-hiring-assistant/
+
 │
 ├── app.py                 # Streamlit UI
 ├── bot.py                 # Chatbot engine & workflow logic
