@@ -70,16 +70,27 @@ Completed candidate profiles are stored in a local JSON file (candidates_store.j
 talentscout-hiring-assistant/
 
 │
+
 ├── app.py                 # Streamlit UI
+
 ├── bot.py                 # Chatbot engine & workflow logic
+
 ├── prompts.py             # System + generation prompts
+
 ├── storage.py             # JSON-based simulated storage
+
 │
+
 ├── requirements.txt       # Dependencies
+
 ├── README.md              # Documentation
+
 ├── .env                   # GROQ_API_KEY (excluded from GitHub)
+
 │
+
 ├── assets/                # Optional screenshots
+
 └── utils/                 # Optional helper modules
 
 🧠 Technologies Used
