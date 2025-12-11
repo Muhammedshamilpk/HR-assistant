@@ -155,7 +155,9 @@ Tech stack: Python, Django, MySQL
 4) It generates 3–5 questions per technology
 5) The conversation ends gracefully
 6) You can load saved candidate records by clicking “Load Records”
+   
 🧠 Prompt Engineering Strategy
+
 🔹 System Prompt
 
 Defines the assistant’s behavior, tone, and boundaries.
