@@ -115,11 +115,10 @@ talentscout-hiring-assistant/
 1️⃣ Clone the repository
 
 '''bash
-
 git clone https://github.com/your-username/talentscout-hiring-assistant
 cd talentscout-hiring-assistant
 
-'''
+
 
 2️⃣ Create and activate a virtual environment
 
